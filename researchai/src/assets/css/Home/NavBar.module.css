@@ -1,0 +1,23 @@
+.NavBarItemsContainer{
+    margin-right: 100px;
+}
+
+
+.NavBarItems{
+    padding-left: 40px;
+}
+
+.Logo{
+    margin-left: 4vw;
+}
+
+.HrLine{
+    background-color: #DCC390;
+    height: 15px;
+}
+
+.DropDown{
+    width: 50vw;
+    overflow: hidden;
+    /* position: relative; */
+}
