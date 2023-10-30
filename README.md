@@ -1,6 +1,6 @@
 # reSearchAI
 
-For the requested task I have built a simple research paper finder website that’ll help people to efficiently find resources for their thesis/research.
+I have built a simple research paper finder website that’ll help people to efficiently find resources for their thesis/research.
 
 ## Tech stack used –
 
