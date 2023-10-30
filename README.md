@@ -32,4 +32,3 @@ ChatGPT API
 ## Conclusion
 I have tried to create a minimalistic version of the idea because of which the results might not be perfect. As seen in the screenshot the results can be repetitive but it can be improved by using a metric like cosine similarity on the obtained results and filter out duplicate results. 
 
-![image](https://github.com/Nirav-1999/reSearchAI/assets/37542504/966fd16e-a68c-416b-bd31-ffebeb3cb19e)
